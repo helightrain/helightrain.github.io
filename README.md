@@ -1,8 +1,4 @@
 # helightrain.github.io
-&lt;!-- 顶部动态横幅 --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YourName&fontSize=50&fontAlignY=35&animation=twinkling&desc=Accounting%20Researcher%20|%20Data%20Analyst%20|%20Product%20Enthusiast&descAlignY=55&descAlign=50" /&gt;
-&lt;/p&gt;
 
 &lt;!-- 简短自我介绍 --&gt;
 ### 🎯 Research Interest & Long-term Vision
@@ -48,14 +44,6 @@ My long-term vision is to leverage big data and AI technologies to enhance finan
 - **Baidu Content Strategy**: Content procurement optimization & vendor management
 - **Market Research**: National 2nd Prize in National Market Survey and Analysis Competition
 
----
-
-### 📊 GitHub Stats
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=vue&hide_border=true&count_private=true" height="160"/&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=vue&hide_border=true" height="160"/&gt;
-&lt;/p&gt;
 
 ---
 
@@ -65,7 +53,3 @@ My long-term vision is to leverage big data and AI technologies to enhance finan
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](your-portfolio-url)
 
-&lt;!-- 底部动态横幅 --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /&gt;
-&lt;/p&gt;
